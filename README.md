@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm currently working on fun things and you can find me on<a rel="me" href="https://mastodon.social/@ben_shockley">Mastodon</a>.
+I'm currently working on fun things and you can find me on <a rel="me" href="https://mastodon.social/@ben_shockley">Mastodon</a>.
 
 <!--
 **bwshockley/bwshockley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
