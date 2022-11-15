@@ -1,6 +1,6 @@
 ## Hello World 👋
 I'm currently working on fun things and you can find me on <a rel="me" href="https://mastodon.social/@ben_shockley">Mastodon</a>.
-If you got here looking for Mini SAM development boards, the repository is below OR you can order pre-made boards directly from <a href="[https://minifigboards.com](https://minifigboards.com/products/mini-sam-m4)">Mini Fig Boards</a>.
+If you got here looking for Mini SAM development boards, the repository is below OR you can order pre-made boards directly from <a href="https://minifigboards.com/products/mini-sam-m4">Mini Fig Boards</a>.
 
 <!--
 **bwshockley/bwshockley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
